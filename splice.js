@@ -8,3 +8,10 @@ console.log(newArr);
 
 console.log(addingItems);
 console.log(arr);
+
+
+
+// 👉 So basically, splice does two things:
+// Removes items from the array
+// Inserts new items at that same position
+// Returns the removed items
